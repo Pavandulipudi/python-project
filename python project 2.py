@@ -6,6 +6,7 @@ tallies = {
     'C': 100,
     'D': 500,
     'M': 1000,
+    #
     # specify more numerals if you wish
 }
 
